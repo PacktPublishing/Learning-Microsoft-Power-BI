@@ -1,0 +1,6 @@
+Notes for the learners:
+
+1) Videos(refer to the student files directory and check beforehand if there's a file you need to have handy while studying a particular video/section)
+2) After sections 2 and 3 there are special labs designed to help you get a better understanding of the respective sections
+3) For sections 1, 4, 5 and 6 please attempt the quizzes to test your knowledge
+4) In case of any query, do raise it up on GitHub, the author will be here to help you.
