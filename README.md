@@ -45,6 +45,8 @@ Browser: Google Chrome
 The Power BI software: https://powerbi.microsoft.com/en-us/downloads/
 
 ## Related Products
+* [Learning Microsoft Power BI [Video]](https://www.packtpub.com/virtualization-and-cloud/building-interactive-dashboards-microsoft-power-bi-video)
+
 * [Microsoft Power BI Recipes [Video]](https://www.packtpub.com/big-data-and-business-intelligence/microsoft-power-bi-recipes-video?utm_source=github&utm_medium=repository&utm_campaign=9781788291217)
 
 * [Microsoft Power BI Online [Video]](https://www.packtpub.com/big-data-and-business-intelligence/microsoft-power-bi-online-video?utm_source=github&utm_medium=repository&utm_campaign=9781788295352)
