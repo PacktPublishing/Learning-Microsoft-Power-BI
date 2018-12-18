@@ -1,7 +1,7 @@
 # Learning-Microsoft-Power-BI [Video]
 Learning Microsoft Power BI [Video], published by Packt
 
-This is the code repository for [Learning Microsoft Power BI [Video]](https://www.packtpub.com/big-data-and-business-intelligence/learning-microsoft-power-bi-video?utm_source=github&utm_medium=repository&utm_campaign=9781789347104), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Learning Microsoft Power BI [Video]](https://www.packtpub.com/big-data-and-business-intelligence/learning-microsoft-power-bi-video?utm_source=github&utm_medium=repository&utm_campaign=9781789347104), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish. To refer to the excel files,click on this link: https://drive.google.com/open?id=17r0qHMoBC6xMhyffine71KINO-YVMlXA
 ## About the Video Course
 Tell your data story with Power BI and reach millions of users with a single click on any kind of a device. Using Power BI, you can combine your data sources, create stunning visualizations, and embed your story on your website within seconds. The goal of this course is to teach you how to use raw data, monitor it, and visualize it in a form that will provide rich insights with the help of dashboards.
 
